@@ -1,0 +1,51 @@
+In fact, some other industry executives expect it to take
+perhaps two years before there will be smart cards and related
+hardware that will be impervious to Kocher's type of attack.
+Kocher said he had approached the smart-card industry last year
+with the details of his discovery because he knew that criminals
+might also use the same tricks. But he said that he did not
+publicize his findings, so that the industry would have time to
+adopt defenses, including techniques for which he has filed for
+patents and which he is now licensing to the companies.
+Kocher's company, Cryptography Research, analyzes and tests
+computer-security hardware and software for many of the leading
+computer companies. His discoveries of flaws in supposedly secure
+technologies have drawn attention in the past as in 1995, when he
+found that he could break into smart cards by simply timing how
+long it took them to process data.
+In the case of this newly disclosed smart-card problem, Kocher
+and his colleagues found that the cards' consumption of electrical
+power could disclose vital information about the secret key that
+protects the money or other data on the chip.
+By watching the monitor of an oscilloscope, a device that
+measures the power use on a screen similar to the way a cardiac
+monitor displays a patient's heart action, Kocher's team was able
+in some cases to use the electrical pattern from a single
+transaction to decipher the key to the code. In other cases, they
+were forced to use more sophisticated statistical techniques to
+analyze the results from as many as 1,000 transactions.
+Kocher said his team had spent at least as much time looking for
+solutions as it had in identifying the security flaw. A possible
+remedy involves masking the transaction in digital noise by adding
+meaningless random calculations that would consume random amounts
+of current.
+Another possible solution, which according to Mastercard
+officials is being incorporated in the latest version of its Mondex
+smart-card software, is to vary the order of the operations in the
+software to make it more difficult to identify patterns in the
+consumption of power.
+A banking-industry goal with smart cards is to cut costs by
+eliminating the need for central approval of a debit or credit
+transaction. By some estimates, the marginal costs for clearing a
+smart-card transaction are well under a penny. Credit-card
+transactions, however, typically require a long-distance computer
+network and a large central database for examining each deal, and
+the transaction eventually means billing a customer and cashing the
+payment checks.
+These steps add up to 25 cents a transaction, on average,
+compared with about a penny for a smart-card transaction, in which
+all the authorization information and even the money itself can
+be contained on the card's chip.
+Fletcher, of Mastercard's Mondex, contends that including any
+sort of central control runs counter to the purpose of a smart card giving customers the ability to use the money on a card just like
+cash.

@@ -1,0 +1,34 @@
+Then, the fixes themselves need to be tested and de-bugged which, as anyone who has purchased a software program during its
+first weeks on the market knows, can take a while.
+Finally, military computers interact with each other and with
+civilian computers and these interactions could unfold in
+unforeseeable ways.
+When the Chrysler Corp. conducted a test of its Y2K solutions at
+an assembly plant last year, the time clocks malfunctioned, causing
+the security system to shut down, making it impossible for anyone
+to leave the building.
+When the Phillips Petroleum Co. ran a simulation onboard an oil
+vessel in the North Sea, a safety system designed to detect a
+deadly gas, hydrogen sulfide, shut down.
+In some cases, real-life failures have taken place that only
+begin to hint at how far-flung the problems might be.
+A preview of possible military disasters was the incident in the
+1991 Gulf War, when a Scud missile blew up a barracks in Saudi
+Arabia, killing 28 National Guard troops inside.
+A post-mortem of the disaster revealed that the Patriot
+air-defense battery failed to shoot down the Scud because the clock
+in the Patriot's radar system was not properly synchronized.
+The radar had been designed to be left on for only a short
+while. Its clock viewed a day as 23 hours and 59 minutes long.
+However, once this particular Patriot arrived in Saudi Arabia, the
+radar was left on continuously. So its clock drifted away from the
+actual time by one minute per day.
+When the Patriot system's computer detected an incoming Scud
+missile, it would see the missile on two radar screens and send
+both blips to another computer controlling its fire-control system.
+But since the two blips were not synchronized, the fire-control
+computer could not connect them could not see them as a target.
+This is not your father's Red China. In fact, the country that
+President Clinton will see this week barely resembles the country
+that hosted George Bush for the last American presidential visit
+nine years ago.
